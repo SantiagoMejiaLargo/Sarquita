@@ -83,3 +83,9 @@ h1 {
     left: 0;
     pointer-events: none;
 }
+
+#qr{
+    margin-top: 50px;
+    width: 300px;
+
+}
